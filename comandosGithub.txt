@@ -1,0 +1,2 @@
+git init: Crea un repositorio local de mi proyecto
+git config.mail: Para ver si tu correo ya esta configurado en git
